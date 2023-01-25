@@ -1,0 +1,21 @@
+.div_tituloc{
+    left: -30%;
+    top: -300px;
+    font-size: 20px;
+   display: flex;
+   justify-content: center;
+   position: relative;
+  
+}
+
+
+.div_1c{
+    height: 200px;
+    width: 500px;
+    left: 10%;
+    top: -300px;
+    font-size: 15px;
+    text-align: justify;
+    position: relative;
+    
+}

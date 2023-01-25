@@ -1,0 +1,19 @@
+.div_2{
+    left: 200px;
+    top: 10px;
+    position: absolute;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+.div_1{
+    left: 55%;
+    top: 95px;
+    position: absolute;
+    color: aliceblue;
+    font-size: 18px;
+    display: flex;
+  padding: 10px;
+ 
+
+}

@@ -1,0 +1,21 @@
+.div_titulo{
+    left: 2%;
+    top: 5%;
+    font-size: 18px;
+   display: flex;
+   justify-content: center;
+}
+
+.div_1a{
+    height: 200px;
+    width: 500px;
+    left: 5%;
+    top: 10px;
+    font-size: 15px;
+    text-align: justify;
+    position: relative;
+    background: rgb(88, 87, 87);
+}
+p{
+    font-size: 20px;
+}
