@@ -1,11 +1,12 @@
-import Interes from "../../pages/Interes";
-import Person from "../../pages/Person";
+import FormPerson from "../atoms/FormPerson";
+import FormInteres from "../atoms/FormInteres";
+
 
 function Personales() {
     return(
         <>
-        <Person/>
-        <Interes/>
+        <FormPerson/>
+        <FormInteres/>
         </>
     );
 }

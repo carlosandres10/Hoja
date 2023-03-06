@@ -1,11 +1,12 @@
-import Estudi from "../../pages/Estudi";
-import Estudi2 from "../../pages/Estudi2";
+import FormEstudi from "../atoms/FormEstudi"
+import FormEstudi2 from "../atoms/FormEstudi2";
+
 
 function Estudios() {
     return(
         <>
-        <Estudi/>
-        <Estudi2/>
+        <FormEstudi/>
+        <FormEstudi2/>
         </>
     );
 }

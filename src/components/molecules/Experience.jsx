@@ -1,10 +1,11 @@
-import Expe from "../../pages/Expe";
-import Expe2 from "../../pages/Expe2";
+import FormExpe from "../atoms/FormExpe";
+import FormExpe2 from "../atoms/FormExpe2";
+
 function Experience () {
     return(
         <>
-        <Expe/>
-        <Expe2/>
+        <FormExpe/>
+        <FormExpe2/>
         </>
 
     );

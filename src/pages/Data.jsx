@@ -1,8 +1,15 @@
-import FormData from "../components/atoms/FormData";
+import Encabezado from "../components/molecules/Encabezado";
+import Estudios from "../components/molecules/Estudios";
+import Personales from "../components/molecules/Personales";
 
 function Data (){
     return(
-        <FormData/>
+        <>
+        <Encabezado/>
+        <Estudios/>
+        <Personales/>
+        </>
+       
     );
 }
 export default Data;

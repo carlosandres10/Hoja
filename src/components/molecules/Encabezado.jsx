@@ -1,11 +1,12 @@
-import Data from "../../pages/Data";
-import Login from "../../pages/Login";
+import FormData from "../atoms/FormData";
+import FormLogin from "../atoms/FormLogin";
+
 
 function Encabezado () {
     return (
         <>
-        <Login />
-        <Data />
+        <FormData/>
+        <FormLogin/>
         </>
     );
 }
